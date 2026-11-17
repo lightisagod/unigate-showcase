@@ -53,6 +53,21 @@ flowchart LR
 
 Next.js 16 (App Router) · React 19 · TypeScript · CSS-переменные без UI-библиотек · GSAP (ScrollTrigger, SplitText) · amoCRM API v4 · Meta Pixel + Conversions API · Google Tag Manager / GA4 · Microsoft Clarity · Vercel (Speed Insights) · Playwright
 
+## Ещё для unigate: сайт найма
+
+🔗 [job.unigate.kz](https://job.unigate.kz)
+
+Раньше отклики кандидатов приходили в Google-форму: их разбирали по личным чатам, и было непонятно, с кем уже связались. amoCRM занята клиентами, поэтому отклики нужно было вести отдельно.
+
+| | |
+|---|---|
+| ![](media/hr-home.jpg) | **Сайт о команде.** Первый экран, история компании, «Как мы живём» с видео, страница команды — кандидат знакомится с людьми до отклика. |
+| ![](media/hr-form.jpg) | **Анкета вместо формы.** 6 коротких вопросов, почти все ответы в одно касание, резюме не нужно. |
+
+**CRM в Google-таблице** на Apps Script: каждый отклик — строкой, со статусом и задачами. **Telegram-бот** присылает новый отклик в рабочую группу HR сразу, а каждое утро — сводку: сколько новых и сколько без ответа.
+
+Стек: Next.js · Google Apps Script · Telegram Bot API · Vercel
+
 ---
 
-Сделал [lightisagod](https://github.com/lightisagod) · [Telegram](https://t.me/derevo1337sol)
+Сделал [LightLeads](https://lightleads.dev) · [lightisagod](https://github.com/lightisagod) · [Telegram](https://t.me/derevo1337sol)
